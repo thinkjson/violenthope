@@ -28,5 +28,9 @@ The truth is, hard times come to us all. If you're struggling with suicidal thou
 
 Where are you at right now?
 
-<a href="mailto:help@whatstheuse.org" class="btn btn-default">I'm struggling with depression or suicidal thoughts, and want someone to talk to</a>
-<a href="/belief/" class="btn btn-default">I want to know more about what changed things for you</a>
+<ul>
+	<li><a href="http://www.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx" class="action">I'm struggling with suicidal thoughts, and need to talk right now</a></li>
+	<li><a href="mailto:help@whatstheuse.org" class="action">I just want someone to talk to</a></li>
+	<li><a href="/belief/" class="action">I want to know more about what changed things for you</a></li>
+	<li><a href="http://www.suicidepreventionlifeline.org/" class="action">I want to know how I can help people I know that struggle with depression or suicidal thoughts</a></li>
+</ul>
