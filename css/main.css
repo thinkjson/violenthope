@@ -1,0 +1,12 @@
+body {
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+h1,h2,h3 {
+	font-family: 'Covered By Your Grace', cursive;
+}
