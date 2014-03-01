@@ -17,30 +17,29 @@
         <script src="{{ site.baseurl }}js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
     <body>
-    <div class="navbar">
-      <div class="container">
-        <div class="navbar-header">
-            <a href="{{ site.baseurl }}" class="navbar-brand">What's the use?</a>
+
+        {% if page.url == '/' %}
+        <div class="jumbotron">
+          <div class="container">
+            <h1>What's the use?</h1>
+            <p>I've asked myself that question a lot over the course of my life. Most people who have struggled with depression and suicidal thoughts have. I've found an answer, and I want to share it with you.</p>
+          </div>
         </div>
-	    <ul class="nav navbar-nav">
-	      <li><a href="http://www.suicidepreventionlifeline.org/">Struggling with suicidal thoughts?</a></li>
-	      <li><a href="mailto:help@whatstheuse.org">Just need to talk?</a></li>
-	    </ul>
-      </div>
-    </div>
+        {% endif %}
 
-    {% if page.url == '/' %}
-    <div class="jumbotron">
-      <div class="container">
-        <h1>What's the use?</h1>
-        <p>I've asked myself that question a lot over the course of my life. Most people who have struggled with depression and suicidal thoughts have. I found an answer, and I want to share it with you.</p>
-      </div>
-    </div>
-    {% endif %}
+        <div class="container">
+            {{ content }}
+        </div>
 
-    <div class="container">
-        {{ content }}
-    </div>
+        <div class="navbar navbar-fixed-bottom">
+          <div class="container">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="{{ site.baseurl }}">Home</a></li>
+                <li><a href="http://www.suicidepreventionlifeline.org/">Struggling with suicidal thoughts?</a></li>
+                <li><a href="mailto:help@whatstheuse.org">Just need to talk?</a></li>
+            </ul>
+          </div>
+        </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="{{ site.baseurl }}js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
