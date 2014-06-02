@@ -1,16 +1,25 @@
+*, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'EB Garamond', serif;
+}
+
 body {
     padding-bottom: 200px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .navbar {
     margin-bottom: 0;
 }
 
-h1,h2,h3,.action {
-	font-family: 'Covered By Your Grace', cursive;
+.action {
+	font-size: 24px;
 }
 
-.action {
-	font-size: 18px;
+a {
+	text-decoration: underline;
+	color: #333;	
+}
+
+.jumbotron {
+	background-color: #71A5BE;
 }
