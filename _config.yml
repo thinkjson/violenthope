@@ -1,1 +1,3 @@
 font: EB+Garamond
+gems:
+  - jekyll-redirect-from

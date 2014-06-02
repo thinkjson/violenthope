@@ -2,6 +2,7 @@
 layout: default
 title: What's the use?
 permalink: /
+redirect_from: "/read-this-first"
 ---
 
 It all started when I was very young. I had everything going for me. I was raised in a Christian home. We had a roof over our head and food on the table. My parents fought, but I thought that was normal. As a young boy living in the middle of nowhere Pennsylvania, life was good. I loved to play with sticks and rocks, and spend hours exploring the vast marshlands around our house. I caught salamanders in the brook, and played survival in the snow, and ran away from bears when they came tromping through the woods. I was entirely unprepared for the bombshell that was about to land on our family.
