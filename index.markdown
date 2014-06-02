@@ -4,8 +4,6 @@ title: What's the use?
 permalink: /
 ---
 
-## Where did this emptiness come from?
-
 It all started when I was very young. I had everything going for me. I was raised in a Christian home. We had a roof over our head and food on the table. My parents fought, but I thought that was normal. As a young boy living in the middle of nowhere Pennsylvania, life was good. I loved to play with sticks and rocks, and spend hours exploring the vast marshlands around our house. I caught salamanders in the brook, and played survival in the snow, and ran away from bears when they came tromping through the woods. I was entirely unprepared for the bombshell that was about to land on our family.
 
 My Dad basically put me on the bus for the first day of school, then packed up and left. It was a tearful goodbye. I didn’t understand then why a father would willingly choose to leave his family, his own flesh and blood, and live like a bachelor again. It’s not like I never saw him again, but it didn’t matter. He wasn’t in my life like he was before. At the tender age of four I felt alone, abandoned. I would never be the same again.
